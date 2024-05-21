@@ -1,0 +1,35 @@
+.header-bg {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.header-img {
+  height: 40px;
+}
+.score-heading {
+  color: #ffffff;
+  /* margin-top: 15px; */
+}
+.score {
+  color: #fec653;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* margin-top: 15px; */
+}
+.timer-img {
+  height: 20px;
+  margin-left: 13px;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+.header-section2 {
+  display: flex;
+  justify-content: right;
+}
+.heading-list {
+  list-style: none;
+}

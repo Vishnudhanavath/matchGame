@@ -1,0 +1,19 @@
+.list-item {
+  list-style: none;
+  cursor: pointer;
+  margin: 10px;
+}
+.tab {
+  color: #ffffff;
+  padding: 5px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.tabStyle {
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: #fec653;
+  color: #fec653;
+  padding: 5px;
+}
